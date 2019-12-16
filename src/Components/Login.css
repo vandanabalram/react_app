@@ -1,0 +1,28 @@
+.container1{
+    width: 150px;
+    height: 60px;
+    margin-left: 550px;
+    margin-top: 50px;
+    padding: 2px;
+}
+.container2{
+    width: 150px;
+    height: 40px;
+    margin-left: 570px;
+    margin-top: 30px;
+    padding: 2px;
+}
+.container3{
+    width: 150px;
+    height: 40px;
+    margin-left: 570px;
+    margin-top: 8px;
+    padding: 2px;
+    
+}
+.error{
+    color: pink;
+}
+.container4{
+    background-color:pink;
+}
